@@ -1,0 +1,52 @@
+
+.header
+{
+    border-bottom: solid;
+}
+.header h2,p
+{
+    margin-left: 80px;
+}
+.layout
+{
+    margin-top: 25px;
+}
+.intro
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+}
+
+.button
+{
+    margin-bottom: 50px;
+    
+    
+}
+.about
+{   text-align: center;
+    
+  
+    border-bottom: 1px;
+    border-bottom-style: solid;
+}
+.fillform
+{
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom: 2px;
+}
+.footer
+{
+    border-top: 1px;
+    border-bottom: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    text-align: center;
+    padding-top: 10px;
+    scroll-padding-bottom: 10px;
+
+}
